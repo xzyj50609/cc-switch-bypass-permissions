@@ -461,8 +461,8 @@ claude --settings "<临时配置.json>"
 <td align="center"><b>支付宝</b></td>
 </tr>
 <tr>
-<td><img src="../profile/assets/wechat-pay.jpg" width="200"></td>
-<td><img src="../profile/assets/alipay.jpg" width="200"></td>
+<td><img src="https://raw.githubusercontent.com/xzyj50609/xzyj50609/master/assets/wechat-pay.jpg" width="200"></td>
+<td><img src="https://raw.githubusercontent.com/xzyj50609/xzyj50609/master/assets/alipay.jpg" width="200"></td>
 </tr>
 </table>
 
